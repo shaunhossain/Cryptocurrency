@@ -1,4 +1,4 @@
-package com.shaunhossain.cryptocurrency.presentation.coin_detail.componets
+package com.shaunhossain.cryptocurrency.presentation.coin_detail
 
 import com.shaunhossain.cryptocurrency.domain.model.CoinDetail
 
